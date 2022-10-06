@@ -1,0 +1,21 @@
+ESP32-CAM ESP32 WIFI Bluetooth Development Board With OV2640 Camera Module
+
+Install the Following 
+
+File > Preference > Additional Boards Manager URL
+
+https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json;https://dl.espressif.com/dl/package_esp32_index.json
+
+Settings 
+
+TOOLS >
+Board : AI thinker ESP32-CAM
+Flash Mode: QIO
+Flas Frequency 80MHZ
+CPU Frequenct 240MHZ (Wifi/BT))
+
+Log wifi on on two options
+
+ESP32-CAM-Video-Access-Point : search wifi network for (ESP32 CAM Access Point) Password :123456789 IP Address 192.168.4.1
+ESP32-CAM-Video-Streaming : Reset button of the ESP32-CAM then goto Tools > Serial Monitor and Copy the IP address

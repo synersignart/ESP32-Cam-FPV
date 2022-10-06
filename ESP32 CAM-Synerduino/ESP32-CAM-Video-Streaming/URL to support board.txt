@@ -1,0 +1,6 @@
+https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json;https://dl.espressif.com/dl/package_esp32_index.json
+
+
+Board : AI thinker
+Flash QIO
